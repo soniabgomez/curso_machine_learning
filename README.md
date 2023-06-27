@@ -1,9 +1,4 @@
 # curso_machine_learning
-In this course we've learned about:
-- variables and types
-- Lists
-- Strings
-- Loops
-- Functions
-- Dictionaries
-- conditionals which these are comparison operators (second file)
+Python Exercises: Variables, Types, Lists, Strings, Loops, Functions, Dictionaries, Conditionals
+
+This repository contains a collection of Python exercises covering topics such as variables, data types, lists, strings, loops, functions, dictionaries, and conditionals.
