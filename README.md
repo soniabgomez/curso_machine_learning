@@ -14,10 +14,16 @@ This repository contains a collection of Python exercises covering topics such a
 
 28_06_23
 
-Machine learning exervises: 
+Machine learning exercises: 
 
 Machine learning introduction with Scikit-Learn
 Regression in machine learning
 Python library Folium
 
+29_06_23
+
+Machine learning exercises:
+
+-Interactive Visual Analytics con Folium
+-Machine Learning Predicciones
 
