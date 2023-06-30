@@ -25,5 +25,5 @@ Python library Folium
 Machine learning exercises:
 
 -Interactive Visual Analytics con Folium
--Machine Learning Predicciones
+-Machine Learning Predicciones Scikit-learn
 
